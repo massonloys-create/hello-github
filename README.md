@@ -1,2 +1,2 @@
-# hello-github
-Introduction à GitHub accompagné de Copilot ;)
+# Hello, GitHub!
+This is my first repository. I am learning GitHub step by step.
